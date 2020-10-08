@@ -1,3 +1,4 @@
 # BigChangeInterview
 BigChange Interview
-John Rickatson, High Ideals Ltd
+John Rickatson, High Ideals Ltd, Bradford
+
